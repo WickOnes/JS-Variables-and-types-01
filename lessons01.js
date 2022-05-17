@@ -1,4 +1,5 @@
 "use strick";
+
 const banan = 15.678;
 
 const apple = 123.965;
@@ -21,4 +22,4 @@ const middleSum = sum / 3;
 const discont = Math.random() * (50 - 10) + 10;
 
 let sumDiscont = sum - (discont * sum) / 100;
-let profit = (sum / 2) - (sum - sumDiscont)
+let profit = sum / 2 - (sum - sumDiscont);
