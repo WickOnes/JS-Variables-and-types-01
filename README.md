@@ -1,0 +1,1 @@
+# JS-Variables-and-types-01
